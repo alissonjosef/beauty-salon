@@ -1,5 +1,4 @@
-# nlw6-beauty-salon
+# beauty-salon
 
-- Projeto criado durante a Next Level Week #6 da Rocketseat, missão Origin.
+- Projeto da disciplina DESENV. WEB EM HTML5, CSS, JAVASCRIPT E PHP.
 
-<a href="https://matheuscostadesign.github.io/nlw6-beauty-salon/"><img src="assets/.github/landing.png" alt="BeautySalon"></a>
